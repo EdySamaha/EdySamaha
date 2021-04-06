@@ -14,15 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-GCW6TCW2D9"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<!-- Trying to trigger my Google Analytics global tag through API-->
 
-  gtag('config', 'G-GCW6TCW2D9');
-</script>
 
 My name is Edmond Samaha and I'm a highly motivated engineer who's always ready to tackle challenges and develop business solutions.
 
