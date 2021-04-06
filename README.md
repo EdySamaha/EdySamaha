@@ -27,7 +27,8 @@ My name is Edmond Samaha and I'm a highly motivated engineer who's always ready 
 -->
 
 ### 📈 Github Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdySamaha&layout=compact&langs_count=10&theme=default&card_width=300)](https://github.com/EdySamaha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdySamaha&layout=compact&langs_count=10&theme=default&card_width=600)](https://github.com/EdySamaha)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=EdySamaha)
 
 ### 📫 Contact me:
