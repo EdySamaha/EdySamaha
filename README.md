@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- Trying to trigger my Google Analytics global tag through API-->
 
 
-My name is Edmond Samaha and I'm a highly motivated engineer who's always ready to tackle challenges and develop business solutions.
+My name is Edmond Samaha and I'm a highly motivated engineer, always ready to tackle challenges and develop business solutions.
 
 ---
 <!--
@@ -39,6 +39,6 @@ My name is Edmond Samaha and I'm a highly motivated engineer who's always ready 
     <img alt="Email" src="https://img.shields.io/badge/Email-f24b30?logo=gmail&logoColor=white&style&style=for-the-badge" />
   </a> &nbsp
     <a href="https://www.linkedin.com/in/edmond-samaha/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?logo=LinkedIn&logoColor=white&style&style=for-the-badge" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-0077B5?logo=LinkedIn&logoColor=white&style&style=for-the-badge" />
   </a>
  </p>
