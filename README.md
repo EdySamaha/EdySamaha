@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 My name is Edmond Samaha and I'm a highly motivated engineer, always ready to tackle challenges and develop business solutions.
 
 #### Socials:
-- [Portfolio](https://rebrand.ly/Edysamaha-addressBook) 
+- [Portfolio](https://rebrand.ly/Edysamaha) 
 - [Youtube](https://www.youtube.com/channel/UCAwbnfWVA13OI5hPbskTbMg) 
 - [WordPress](https://edysamaha.wordpress.com/)
 
