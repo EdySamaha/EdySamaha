@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 My name is Edmond Samaha and I'm a highly motivated engineer, always ready to tackle challenges and develop business solutions.
 
 #### Socials:
+- <a href="https://www.instagram.com/insight.codes/" target="_blank">Instagram</a>
+- <a href="https://edysamaha.netlify.app/" target="_blank">Portfolio</a>
 - <a href="https://www.youtube.com/channel/UCAwbnfWVA13OI5hPbskTbMg" target="_blank">Youtube</a>
-- <a href="https://www.instagram.com/edysamaha/" target="_blank">Instagram</a>
-- <a href="https://edysamaha.wordpress.com/" target="_blank">WordPress</a>
 
 ---
 <!--
