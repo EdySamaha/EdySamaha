@@ -6,9 +6,9 @@ My name is Edmond Samaha and i'm a curious engineer interested in end-end AI pro
 
 ### 📊 GitHub
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EdySamaha&theme=github_dark" alt="GitHub stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EdySamaha&theme=github_dark" alt="Top languages" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EdySamaha&theme=github-dark-blue" alt="Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EdySamaha&theme=github" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EdySamaha&theme=github" alt="Top languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EdySamaha&theme=github" alt="Streak" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=EdySamaha&label=Profile%20views&color=0e75b6&style=flat)
 
